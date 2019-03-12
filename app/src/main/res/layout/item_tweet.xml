@@ -30,8 +30,17 @@
         android:layout_below="@+id/tvScreenName"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="60dp"
-        android:layout_marginTop="22dp"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="26dp"
         android:layout_toEndOf="@+id/ivProfileImage"
         tools:text="Follow me on twitter @themarkiestmark" />
+
+    <TextView
+        android:id="@+id/tvTimeAgo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="1dp"
+        android:textAlignment="textEnd"
+        tools:text="this much time ago " />
 </RelativeLayout>
