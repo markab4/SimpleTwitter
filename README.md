@@ -17,7 +17,7 @@ Simple Twitter is an android app that allows a user to view their Twitter timeli
 - [x] User can then enter a new tweet and post this to twitter
 - [x] User is taken back to home timeline with **new tweet visible** in timeline
 - [x] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
-- [ ] User can **see a counter with total number of characters left for tweet** on compose tweet page
+- [x] User can **see a counter with total number of characters left for tweet** on compose tweet page
         **Note**: Twitter currently allows up to 280 characters in a tweet, double the previous limit of 140 characters.
 
 ### Optional Stories:
@@ -43,11 +43,13 @@ Simple Twitter is an android app that allows a user to view their Twitter timeli
 - [ ] User can **see embedded image media within a tweet** on list or detail view.
 
 
-## GIF Walkthrough
+## GIF Walkthroughs
 
-Here's a walkthrough of implemented user stories:
+Some walkthroughs of implemented user stories:
 
-<img src='https://github.com/markab4/SimpleTwitter/blob/master/walkthrough.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/markab4/SimpleTwitter/blob/master/walkthrough1.gif?raw=true' title='GIF Walkthrough 1' width='' alt='GIF Walkthrough' />
+<img src='https://github.com/markab4/SimpleTwitter/blob/master/walkthrough2.gif?raw=true' title='GIF Walkthrough 2' width='' alt='GIF Walkthrough' />
+<img src='https://github.com/markab4/SimpleTwitter/blob/master/walkthrough3.gif?raw=true' title='GIF Walkthrough 3' width='' alt='GIF Walkthrough' />
 
 
 ## Open-source libraries used
